@@ -25,7 +25,18 @@ h4 {
   font-style: normal;
   font-size: 30px;
 }
-
+footer {
+ border-top: 1px solid #57b1dc;
+ text-align: center;
+ padding-top: 1em;
+}
+footer svg {
+ width: 40px;
+ height: 30px;
+ margin-left: .5em;
+ margin-right: .5em;
+ background-position: center 100px;
+}
 nav ul li a:hover {
   color: #57b1dc; 
   text-decoration: underline;
