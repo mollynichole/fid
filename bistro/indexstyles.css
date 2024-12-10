@@ -4,6 +4,7 @@ body {
   background-color: #faf2e4;
   margin: 0 10%;
   font-family: sans-serif;
+  text-align: center; 
   
 }
 
@@ -42,9 +43,16 @@ footer svg {
 nav ul li a:hover {
   color: #57b1dc;
   text-decoration: underline;
+  }
+  nav ul {
+  list-style-type: none; 
+  padding: 0;             
+  margin: 0;              
+
 }
 
 a img:hover {
   transform: scale(1.1);
   transition: transform 0.3s ease;
+  text-align: center; 
 }
