@@ -4,6 +4,7 @@ body {
   background-color: #faf2e4;
   margin: 0 10%;
   font-family: sans-serif;
+  text-align: center;
 }
 
 h1 {
@@ -24,15 +25,18 @@ h4 {
   font-weight: 400;
   font-style: normal;
   font-size: 30px;
+  text-align: center;
 }
 footer {
  border-top: 1px solid #57b1dc;
  text-align: center;
  padding-top: 1em;
+text-align: center;
 }
 footer svg {
- width: 40px;
- height: 30px;
+  text-align: center;
+ width: 20px;
+ height: 10px;
  margin-left: .5em;
  margin-right: .5em;
  background-position: center 100px;
