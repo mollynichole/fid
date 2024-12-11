@@ -58,6 +58,8 @@ h5 {
 p {
     text-align: left;
   font-family: "Times New Roman",sans-serif;
+   margin-left: 10%;
+  margin-right: 10%;
   }
   a {
         color: #d1633c;
