@@ -15,19 +15,20 @@ h1 {
   border-bottom: 1px solid #d1633c;
   margin-top: 30px;
   color: #d1633c;
+  font-size: 5em;
 }
 
 h2 {
   text-align: center;
   font-family: "DM Serif Text", serif;
   color: #d1633c;
-  font-size: 1em;
+  font-size: 5em;
 }
 
 h3, h4, h5 {
   font-family: "DM Serif Text", serif;
   color: #d1633c;
-  font-size: 1em;
+  font-size: 5em;
   text-align: center;
 }
 
@@ -38,6 +39,8 @@ ul {
 
 ul li {
   margin: 10px 0;
+ padding: 1rem;
+ display: inline-block;
 }
 
 p {
