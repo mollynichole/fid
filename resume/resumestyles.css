@@ -1,78 +1,69 @@
-
 <style>
 body {
   background-color: #F3DED2;
   margin: 0 10%;
   font-family: sans-serif;
-  text-align: center;
-}
+   text-align: center; 
+  }
 
 h1 {
   text-align: center;
   font-family: "DM Serif Text", serif;
+  font-size: 2.5em;
   font-weight: normal;
   text-transform: uppercase;
-  border-bottom: 1px solid #d1633c;
   margin-top: 30px;
   color: #d1633c;
-  font-size: 5em;
+   border-bottom: 1px solid #d1633c;
 }
 
 h2 {
-  text-align: center;
+  text-align: center; 
   font-family: "DM Serif Text", serif;
   color: #d1633c;
-  font-size: 5em;
+  font-size: 1.5em;
 }
 
-h3, h4, h5 {
+h3 {
   font-family: "DM Serif Text", serif;
   color: #d1633c;
-  font-size: 5em;
-  text-align: center;
-}
+  font-size: 1.5em;
+  text-align: center; 
+} 
 
-ul {
-  list-style-type: none;
-  padding: 0;
-}
+h4 {
+  font-family: "DM Serif Text", serif;
+  color: #d1633c;
+  font-size: 1.5em;
+  text-align: center; 
+} 
 
-ul li {
-  margin: 10px 0;
+h5 {
+  font-family: "DM Serif Text", serif;
+  color: #d1633c;
+  font-size: 1.5em;
+  text-align: center; 
+}
+  ul li {
  padding: 1rem;
  display: inline-block;
 }
-
+  ul {
+    list-style-type: none;
+  }
 p {
-  text-align: left;
+    text-align: left;
+  font-family: "Times New Roman",sans-serif;
+  }
+  a {
+        color: #d1633c;
+      }
+  a:hover {
+  color: #a8432e; 
+  text-decoration: underline;
 }
-
-a {
-  text-decoration: none;
-  color: #d1633c;
-}
-
-a:hover {
-  color: #a8432e; /* Darken the color when hovering */
-  text-decoration: underline; /* Add an underline on hover */
-}
-
-a:active {
-  color: #80231a; /* Change color when link is clicked */
-}
-
-a:focus {
-  outline: 2px solid #d1633c; /* Add focus outline for accessibility */
-}
-
-ul li:hover {
-  background-color: #f4e1d2; /* Light background color on hover */
-  transition: background-color 0.3s ease; /* Smooth transition for background color */
-}
-
-ul li:active {
-  background-color: #e0b7a1; /* Change background color when active (clicked) */
+  a:focus {
+  outline: 2px solid #d1633c; 
+  background-color: #f0e1d0; 
 }
 </style>
-
-
