@@ -96,7 +96,11 @@ p {
   color: #5F7E92; 
   text-decoration: underline;
 }
-
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 </style>
 
 
