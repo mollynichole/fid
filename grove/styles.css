@@ -1,0 +1,102 @@
+<style>
+
+body {
+  background-color: #E7E6E6;
+ margin: 0;
+  font-family: sans-serif;
+   text-align: center; 
+  }
+
+h1 {
+  text-align: center;
+  font-family: "DM Serif Text", serif;
+  font-size: 4em;
+  font-weight: normal;
+  text-transform: uppercase;
+  margin-top: 30px;
+  color: #476176;
+   border-bottom: 1px solid #d1633c;
+}
+
+h2 {
+  text-align: center; 
+  font-family: "DM Serif Text", serif;
+  color: #476176;
+  font-size: 1.5em;
+}
+
+h3 {
+  font-family: "DM Serif Text", serif;
+  color: #476176;
+  font-size: 1.5em;
+  text-align: center; 
+} 
+
+h4 {
+  font-family: "DM Serif Text", serif;
+font-style: italic;
+  color: #d1633c;
+  font-size: 3em;
+  text-align: center; 
+} 
+
+h5 {
+  font-family: "DM Serif Text", serif;
+  color: #476176;
+  font-size: 1.5em;
+  text-align: center; 
+}
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+footer p {
+  margin-top: 10px;
+}
+
+ul {
+  list-style-type: none;
+  background-color: #d1633c;
+  padding: 0;
+  margin: 0;
+}
+
+/* Style the list items */
+ul li {
+  padding: 1rem;
+  display: inline-block;
+}
+
+
+ul li a {
+  color: #fff; 
+  text-decoration: none;
+  padding: 10px 20px; 
+  display: inline-block;
+}
+
+
+ul li a:hover {
+  background-color: #5F7E92; 
+  color: #fff; 
+}
+p {
+    text-align: left;
+  font-family: "Avenir Next",sans-serif;
+   margin-left: 20%;
+  margin-right: 20%;
+  }
+  a {
+        color: #d1633c;
+      }
+  a:hover {
+  color: #5F7E92; 
+  text-decoration: underline;
+}
+
+</style>
+
+
