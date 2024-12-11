@@ -8,7 +8,6 @@ body {
 
 h1 {
   text-align: center;
-   background-color: #F3DED2;
   font-family: "DM Serif Text", serif;
   font-size: 2.5em;
   font-weight: normal;
@@ -20,7 +19,6 @@ h1 {
 
 h2 {
   text-align: center; 
-  background-color: #F3DED2;
   font-family: "DM Serif Text", serif;
   color: #d1633c;
   font-size: 1.5em;
@@ -28,7 +26,6 @@ h2 {
 
 h3 {
   font-family: "DM Serif Text", serif;
-  background-color: #F3DED2;
   color: #d1633c;
   font-size: 1.5em;
   text-align: center; 
@@ -36,7 +33,6 @@ h3 {
 
 h4 {
   font-family: "DM Serif Text", serif;
-  background-color: #F3DED2;
   color: #d1633c;
   font-size: 1.5em;
   text-align: center; 
@@ -67,9 +63,5 @@ p {
   a:hover {
   color: #a8432e; 
   text-decoration: underline;
-}
-  a:focus {
-  outline: 2px solid #d1633c; 
-  background-color: #f0e1d0; 
 }
 </style>
